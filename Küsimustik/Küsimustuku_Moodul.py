@@ -11,3 +11,4 @@ def testimine():
     pass
 def emaili_saatmine():
     # Siin võiks olla kood, mis saadab e-kirju
+    pass
